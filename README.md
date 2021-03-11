@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🤘 My name is Dan
+- 🌱 I’m currently learning swift
+- 💬 Ask me about python
+- 📫 How to reach me: http://danielknell.co.uk/
+- 😄 Pronouns: he/him
+
 <!--
 **danielknell/danielknell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
