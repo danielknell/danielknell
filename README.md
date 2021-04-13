@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning swift
 - 💬 Ask me about python
 - 📫 How to reach me: http://danielknell.co.uk/
+- :coffee: Buy me a coffee: https://ko-fi.com/danielknell
 - 😄 Pronouns: he/him
 
 <!--
