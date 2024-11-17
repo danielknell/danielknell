@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 - 🤘 My name is Dan
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning game development
 - 💬 Ask me about python
-- 📫 How to reach me: http://danielknell.co.uk/
-- :coffee: Buy me a coffee: https://ko-fi.com/danielknell
+- 📫 How to reach me: https://danielknell.co.uk/
+- ☕ Buy me a coffee: https://ko-fi.com/danielknell
+- 🎮 Gaming at: https://youtube.com/@the-artisan
+- 🎥 Live Coding at: https://youtube.com/@artisanofcode
 - 😄 Pronouns: he/him
 
 <!--
