@@ -7,7 +7,6 @@
 - ☕ Buy me a coffee: https://ko-fi.com/artisanofcode
 - 🎮 Gaming at: https://youtube.com/@the-artisan
 - 🎥 Live Coding at: https://youtube.com/@artisanofcode
-- 😄 Pronouns: he/him
 
 <!--
 **danielknell/danielknell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
